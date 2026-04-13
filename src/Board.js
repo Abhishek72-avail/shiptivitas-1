@@ -22,6 +22,7 @@ export default class Board extends React.Component {
     }
   }
 
+  
   componentDidMount() {
     this.drake = Dragula([
       this.swimlanes.backlog.current,
