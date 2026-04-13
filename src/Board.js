@@ -119,3 +119,4 @@ export default class Board extends React.Component {
     );
   }
 }
+
